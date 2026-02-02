@@ -13,11 +13,11 @@ This work is licensed under a Creative Commons Attribution-ShareAlike 4.0 Intern
 
 Cite this data as:
 
-Roberts, Trotter, Ryan Yount, Matthew Burnett, Austin R.J. Downey, Adriane Moura and Fahad Abumohaimed. Dataset 14 PCB drop test shock acceleration, pulse duration, and impacts to failure. High Rate SHM Working Group.
+Ryan Yount, Matthew Burnett, Roberts, Trotter, Austin R.J. Downey, Adriane Moura and Fahad Abumohaimed. Dataset 14 PCB drop test shock acceleration, pulse duration, and impacts to failure. High Rate SHM Working Group.
 
 Bibtex
 @Misc{RobertsDataset10Circular,   
-author = {Trotter Roberts and Joud N. Satme and Austin {R.J.} Downey and Adriane Moura and Fahad Abumohaimed},   
+author = {Ryan Yount and Matthew Burnett and Roberts and Trotter and Austin {R.J.} Downey and Adriane Moura and Fahad Abumohaimed.},   
 title = {Dataset 14 PCB Shock Testing Acceleration and Pulse Duration},   
 groups = {High Rate SHM Working Group},   
 url = {https://github.com/High-Rate-SHM-Working-Group/Dataset-14-PCB-Shock-Testing-Acceleration-and-Pulse-Duration},   
