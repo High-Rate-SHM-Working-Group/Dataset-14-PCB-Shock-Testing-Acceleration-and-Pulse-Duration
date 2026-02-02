@@ -1,0 +1,73 @@
+Test Locations:
+
+First model run (after set 1 datapoints were created):
+=== Summary ===
+Maximum uncertainty point: (166.66666666666669, 10.042042042042041)
+Weighted centroid (threshold=0.3): (159.45945945945945, 9.681681681681681)
+Weighted centroid (threshold=0.5): (159.75975975975976, 9.813813813813812)
+Weighted centroid (threshold=0.7): (160.96096096096096, 9.945945945945946)
+Prediction: 2.7 hits
+=== Actual ===
+Base Accel: (164, 10.260, 1)
+
+Second model run:
+=== Summary ===
+Maximum uncertainty point: (207.2072072072072, 8.792792792792792)
+Weighted centroid (threshold=0.3): (208.4084084084084, 8.444444444444445)
+Weighted centroid (threshold=0.5): (208.10810810810813, 8.528528528528529)
+Weighted centroid (threshold=0.7): (207.80780780780782, 8.612612612612612)
+Prediction: 5.5 hits
+=== Actual ===
+Base Accel: (185.3, 8.8582, 3)
+
+Third model run:
+=== Summary ===
+Maximum uncertainty point: (152.55255255255256, 10.582582582582582)
+Weighted centroid (threshold=0.3): (155.55555555555554, 9.777777777777779)
+Weighted centroid (threshold=0.5): (154.35435435435437, 10.066066066066066)
+Weighted centroid (threshold=0.7): (154.05405405405406, 10.294294294294295)
+Prediction: 2.5 hits
+=== Actual ===
+Base Accel: (324.07, 6.2347, 8)
+Note: Chose to find a different point to guide the model uncertainty into 
+an area where we intuitively had less certainty on the amount of hits to failure
+
+Fourth model run:
+=== Summary ===
+Maximum uncertainty point: (233.63363363363362, 5.465465465465465)
+Weighted centroid (threshold=0.3): (227.62762762762765, 6.45045045045045)
+Weighted centroid (threshold=0.5): (233.93393393393393, 6.054054054054054)
+Weighted centroid (threshold=0.7): (233.93393393393393, 5.861861861861862)
+Prediction: 45 hits
+=== Actual ===
+Base Accel: (207.668, 6.112, 13)
+
+Fifth model run:
+=== Summary ===
+Maximum uncertainty point: (221.3213213213213, 5.777777777777778)
+Weighted centroid (threshold=0.3): (224.02402402402402, 6.618618618618619)
+Weighted centroid (threshold=0.5): (223.12312312312312, 6.39039039039039)
+Weighted centroid (threshold=0.7): (222.52252252252254, 6.126126126126126)
+Prediction: 1 hit
+=== Actual ===
+Base Accel: (318.62, 6.47, 3)
+
+Sixth model run:
+=== Summary ===
+Maximum uncertainty point: (230.93093093093094, 5.393393393393393)
+Weighted centroid (threshold=0.3): (208.7087087087087, 6.714714714714715)
+Weighted centroid (threshold=0.5): (207.80780780780782, 6.342342342342342)
+Weighted centroid (threshold=0.7): (226.72672672672672, 5.501501501501501)
+Prediction: 5 hits
+=== Actual ===
+Base Accel:(211.595, 6.045, 6)
+
+Seventh model run:
+=== Summary ===
+Maximum uncertainty point: (233.03303303303304, 5.393393393393393)
+Weighted centroid (threshold=0.3): (224.62462462462463, 6.798798798798799)
+Weighted centroid (threshold=0.5): (239.93993993993993, 5.861861861861862)
+Weighted centroid (threshold=0.7): (233.33333333333334, 5.525525525525525)
+Prediction: -8 hits (if we are ignoring negatives -- 1 hit)
+=== Actual ===
+Base Accel: (222.92, 5.356, 6)

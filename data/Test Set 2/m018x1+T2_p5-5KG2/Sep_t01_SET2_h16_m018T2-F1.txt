@@ -1,0 +1,11 @@
+E:\415user_workspace\INTERN_2024\2025 Testing\Test Set 2\m018x1+T2_p5-5KG2\Sep_t01_SET2_h16_m018T2-F1.txt
+Programmer - 
+Striker Velocity - 151
+Sampling Frequency - 2000000
+Tue, Jul 22, 2025 2:06 PM
+Time
+Sec
+
+
+
+0.00000E+0

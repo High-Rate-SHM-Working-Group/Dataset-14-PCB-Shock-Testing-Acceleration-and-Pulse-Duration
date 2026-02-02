@@ -1,0 +1,11 @@
+E:\415user_workspace\INTERN_2024\2025 Testing\Test Set 1\m116_p12KG\Sep_t02_SET1_h18_m116-F1.txt
+Programmer - 
+Striker Velocity - 7940
+Sampling Frequency - 2000000
+Tue, Jun 24, 2025 11:07 AM
+Time
+Sec
+
+
+
+0.00000E+0

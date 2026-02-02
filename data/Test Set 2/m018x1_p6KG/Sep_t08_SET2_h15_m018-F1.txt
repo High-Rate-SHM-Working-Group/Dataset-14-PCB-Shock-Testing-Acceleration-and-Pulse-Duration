@@ -1,0 +1,11 @@
+E:\415user_workspace\INTERN_2024\2025 Testing\Test Set 2\m018x1_p6KG\Sep_t08_SET2_h15_m018-F1.txt
+Programmer - 
+Striker Velocity - -13.8
+Sampling Frequency - 2000000
+Wed, Jul 16, 2025 11:13 AM
+Time
+Sec
+
+
+
+0.00000E+0
